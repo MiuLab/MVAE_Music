@@ -1,0 +1,4 @@
+torch==0.4.1
+numpy>=1.13.3
+progressbar>=2.3
+pretty_midi>=0.2.8
