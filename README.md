@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 ### Training
 
 ```
-python3 train.py --data ./data/nottingham ./data/jsb ./data/piano
+python3 train.py --data ./data/nottingham/midi ./data/jsb ./data/piano
 ```
 
 For more details, see
